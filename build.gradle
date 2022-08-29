@@ -35,7 +35,7 @@ dependencies {
     compileOnly 'net.luckperms:api:5.4'
     // Cloud Command Framework
     compileOnly 'cloud.commandframework:cloud-bungee:1.7.0'
-    compileOnly 'cloud.commandframework:cloud-core:1.7.0'
+    compileOnly 'cloud.commandframework:cloud-core:1.7.1'
     compileOnly 'cloud.commandframework:cloud-annotations:1.7.0'
     compileOnly 'cloud.commandframework:cloud-minecraft-extras:1.7.0'
 }
